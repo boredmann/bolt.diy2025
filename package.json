@@ -126,7 +126,9 @@
     "shiki": "^1.24.0",
     "tailwind-merge": "^2.2.1",
     "unist-util-visit": "^5.0.0",
-    "zustand": "^5.0.3"
+    "zustand": "^5.0.3",
+    "@iconify-json/lucide": "^1.2.2",
+    "@iconify-json/ph": "^1.2.2"
   },
   "devDependencies": {
     "@blitz/eslint-plugin": "0.1.0",
